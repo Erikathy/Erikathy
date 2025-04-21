@@ -27,7 +27,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-###
+<img src="https://raw.githubusercontent.com/Erikathy/Erikathy/output/snake.svg" alt="Snake animation" />
+
 
 <div align="left">
   <a href="www.linkedin.com/in/érikasantiago" target="_blank">
